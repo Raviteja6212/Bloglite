@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+
+</head>
+<body>
+    <h1>Blog Lite</h1>
+    <form action="{{ url_for('homepage') }}" method="post">
+        <input type="text" name="username" placeholder="Enter your user name">
+        <input type="password" name="password" placeholder="Enter your password">
+        <input type="submit" onsubmit="homepage">
+    </form>
+
+</body>
+</html>
