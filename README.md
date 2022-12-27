@@ -1,13 +1,13 @@
 ﻿# Bloglite
  
-**Frameworks to be used**
+## Frameworks to be used
 
 - Flask for application code
 - Jinja2 templates + Bootstrap for HTML generation and styling
 - SQLite for data storage
 - All demos should be possible on a standalone platform like replit.com and should not require setting up new servers for database and frontend management
 
-**Blog Lite Features**
+## Blog Lite Features
 
 - It is a multi-user app
 - Used for uploading blogs with images
@@ -28,7 +28,7 @@
 - System will automatically show the blogs from the users you follow in a particular sequence
 - The recommended order of blogs in a user’s feed is based on the timestamp of blogs
 
-**Terminology**
+## Terminology
 
 - Social Platform
 - Profile - Basic stats, List of blogs
@@ -39,27 +39,27 @@ Similar Products in the Market:
 
 1. [Instagram ](https://www.instagram.com/)
 
-|○|Web, IOS and Android|
+- Web, IOS and Android
 
 2. [Facebook](https://www.facebook.com/)
 
 - Open Source
-|○|Web, IOS and Android|
+- Web, IOS and Android
 
 3. [Twitter](https://twitter.com/)
 
 - Open Source
-|○|Web, IOS and Android|
+- Web, IOS and Android
 
 - These are meant for exploring the idea and inspiration
 - Don’t copy, get inspired 
 
-**Example Wireframe**
+## Example Wireframe
 
 - Click [this](https://drive.google.com/file/d/1G5gGcpt9IlmNNG4iPPEotynLRpFhB2fD/view?usp=sharing) link to check the wireframes
 - It is just given to gain a basic understanding, and not meant to be followed exactly
 
-**Core Functionality**
+## Core Functionality
 
 - This will be graded 
 - Base requirements:
@@ -69,20 +69,20 @@ Similar Products in the Market:
 - Search and Follow / Unfollow Others
 - User’s Feed
 
-**Core - User Signup and Login**
+## Core - User Signup and Login
 
 - Form for username and password
 - You can either use a proper login framework, or just use a simple HTML form with username and password - we are not concerned with how secure the login or the app is
 - Suitable model for user
 
-**Core - User’s Profile**
+## Core - User’s Profile
 
 - Basic profile view for a user
 - Ability to view the number of blogs created
 - Ability to view the number of followers and people you follow
 - Ability to view the list of posts created
 
-**Core - Blog management**
+## Core - Blog management
 
 - Create a new blog
 - Storage should handle multiple languages - usually UTF-8 encoding is sufficient for this
@@ -92,18 +92,18 @@ Similar Products in the Market:
 - Remove a blog
 - With a confirmation from the user
 
-**Core - Search and Follow / Unfollow Others**
+## Core - Search and Follow / Unfollow Others
 
 - Ability to search other users
 - Ability to follow others
 - Ability to unfollow others
 
-**User’s Feed**
+## User’s Feed
 
 - Show the blogs/posts created by other users
 - Navigate to the user’s profile on clicking the username on the blog or post
 
-**Recommended (graded)**
+## Recommended (graded)
 
 - APIs for interaction with users and blogs
 - CRUD on users
@@ -116,13 +116,13 @@ Similar Products in the Market:
 - Ability to like or add comments on a blog
 - Analyse the engagement of blogs/posts
 
-**Optional**
+## Optional
 
 - Styling and Aesthetics
 - Proper login system
 - Export blogs/posts engagement (number of likes/comments on each blog/post of a user)
 
-**Evaluation**
+## Evaluation
 
 - Report (not more than 2 pages) describing models and overall system design
 - Include as PDF inside submission folder
@@ -133,14 +133,7 @@ Similar Products in the Market:
 - This includes making changes as requested and running the code for a live demo
 - Other questions that may be unrelated to the project itself but are relevant for the course
 
-**Instructions**
+## Instructions
 
 - This is a live document and will be updated with more details and FAQs (possibly including suggested wireframes, but not specific implementation details) as we proceed. 
 
-
-
-|●|We will freeze the problem statement on or before 24th September, beyon||
-| - | - | :- |
-||which any modifications to the statement will be communicated via proper|||
-||announcements.||
-|●|The project has to be submitted as a single zip file.||
