@@ -133,7 +133,3 @@ Similar Products in the Market:
 - This includes making changes as requested and running the code for a live demo
 - Other questions that may be unrelated to the project itself but are relevant for the course
 
-## Instructions
-
-- This is a live document and will be updated with more details and FAQs (possibly including suggested wireframes, but not specific implementation details) as we proceed. 
-
