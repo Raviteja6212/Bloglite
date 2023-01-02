@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+
+</head>
+<body>
+    <h1>Blog Lite signup</h1>
+    {% if message %}  
+        <script>
+            alert("{{message}}");
+        </script>  
+    {% endif %}  
+    <form action="{{ url_for('signup') }}" method="post">
+        <input type="text" name="username" placeholder="Enter a user name">
+        <input type="password" name="password" placeholder="Enter a password">
+        <input type="submit" onsubmit="homepage">
+    </form>
+</body>
+</html>
